@@ -1,8 +1,8 @@
 # Your Full Name
 
 Physics Undergraduate | Research Aspirant  
-Email: yourmail@email.com  
-LinkedIn: https://linkedin.com/in/yourname
+Email: keerthanamrenjith123@gmail.com  
+LinkedIn:https://www.linkedin.com/in/keerthana-m-renjith
 
 ---
 
@@ -10,8 +10,7 @@ LinkedIn: https://linkedin.com/in/yourname
 
 - 📄 **Curriculum Vitae (CV)**  
 - 📄 **Motivation Letter**  
-- 📄 **Academic Transcripts**  
-- 📄 **Research Proposals**  
+- 📄 **Academic Transcripts**
 - 📄 **Certificates & Achievements**
 
 ---
