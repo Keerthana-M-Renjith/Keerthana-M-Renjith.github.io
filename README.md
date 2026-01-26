@@ -9,7 +9,7 @@ LinkedIn:https://www.linkedin.com/in/keerthana-m-renjith
 ## Academic Documents
 
 - 📄 **Curriculum Vitae (CV)**  
-  👉 [Download CV](cv_[Keerthana](url)/cv/CV.pdf)
+  👉 [Download CV](documents/cv/cv_Keerthana.pdf)
 
 - 📄 **Motivation Letter**  
   👉 [Download Motivation Letter](documents/cv/Motivation_Letter.pdf)
