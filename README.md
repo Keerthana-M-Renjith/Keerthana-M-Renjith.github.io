@@ -18,7 +18,7 @@ LinkedIn:https://www.linkedin.com/in/keerthana-m-renjith
   👉 [view Transcripts](documents/transcripts/)
 
 - 📄 **Higher Secondary Marksheet**  
-  👉 [view Marksheet](Keerthana_12th.jpeg)
+  👉 [view Marksheet](Keerthana_12th.jpg)
   
 - 📄 **Secondary Education Marksheet**  
   👉 [view Marksheet](Keerthana_10th.jpeg)
