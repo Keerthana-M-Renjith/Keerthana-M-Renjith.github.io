@@ -9,16 +9,32 @@ LinkedIn:https://www.linkedin.com/in/keerthana-m-renjith
 ## Academic Documents
 
 - 📄 **Curriculum Vitae (CV)**  
-  👉 [Download CV](documents/cv/cv_Keerthana.pdf)
+  👉 [view CV](documents/cv/cv_Keerthana.pdf)
 
 - 📄 **Motivation Letter**  
-  👉 [Download Motivation Letter](Keerthana_10th.jpeg)
+  👉 [view Motivation Letter]()
 
-- 📄 **Academic Transcripts**  
+- 📄 **College Academic Transcripts**  
   👉 [View Transcripts](documents/transcripts/)
 
-- 📄 **Research Proposals**  
-  👉 [Research Folder](documents/research/)
+- 📄 **Higher Secondary Marksheet**  
+  👉 [view Marksheet](documents/research/)
+  
+- 📄 **Secondary Education Marksheet**  
+  👉 [view Marksheet](Keerthana_10th.jpeg)
+  
+- 📄 **NIUS PHYSICS-2025**  
+  👉 [View Certificate](documents/research/)
+
+- 📄 **INSPIRE Offer Letter**  
+  👉 [View Offer Letter](documents/research/)
+  
+- 📄 **Medha Chhatravriti Yojana Scholarship**  
+  👉 [View Certificate](documents/transcripts/)
+
+
+
+
 
 ---
 
