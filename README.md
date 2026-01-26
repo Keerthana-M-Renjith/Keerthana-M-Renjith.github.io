@@ -1,4 +1,4 @@
-# Your Full Name
+# Keerthana M Renjith
 
 Physics Undergraduate | Research Aspirant  
 Email: keerthanamrenjith123@gmail.com  
