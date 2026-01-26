@@ -12,7 +12,7 @@ LinkedIn:https://www.linkedin.com/in/keerthana-m-renjith
   👉 [Download CV](documents/cv/cv_Keerthana.pdf)
 
 - 📄 **Motivation Letter**  
-  👉 [Download Motivation Letter](documents/cv/Motivation_Letter.pdf)
+  👉 [Download Motivation Letter](Keerthana_10th.jpeg)
 
 - 📄 **Academic Transcripts**  
   👉 [View Transcripts](documents/transcripts/)
