@@ -30,7 +30,7 @@ LinkedIn:https://www.linkedin.com/in/keerthana-m-renjith
   👉 [view Offer Letter](INSPIRE_Keerthana.pdf)
   
 - 📄 **Medha Chhatravriti Yojana Scholarship**  
-  👉 [view Certificate](MCYscholarship_keerthana.jpg)
+  👉 [view Certificate](MCYscholarship_Keerthana.jpeg)
 
 
 
