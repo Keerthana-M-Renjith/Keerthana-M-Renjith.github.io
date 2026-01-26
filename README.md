@@ -1,6 +1,6 @@
 # Keerthana M Renjith
 
-Physics Undergraduate | Research Aspirant
+An undergraduate experimental physics enthusiast. This page contains my verified academic documents for applications and evaluation.
 
 ---
 
@@ -30,6 +30,3 @@ Physics Undergraduate | Research Aspirant
 
 ---
 
-## About Me
-
-I am a physics undergraduate with interests in condensed matter physics, materials science, and experimental research. This page contains my verified academic documents for applications and evaluation.
