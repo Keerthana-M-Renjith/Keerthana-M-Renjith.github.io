@@ -6,8 +6,8 @@ An undergraduate experimental physics enthusiast. This page contains my verified
 
 ## Academic Documents
 
-- **College Academic Transcripts**  
-  [view Transcripts](documents/transcripts/)
+- **UG Degree Marksheets till sem 3**  
+  [view Marksheets](documents/transcripts/)
 
 - **Higher Secondary Marksheet**  
   [view Marksheet](Keerthana_12th.jpg)
