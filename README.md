@@ -19,7 +19,7 @@ An undergraduate experimental physics enthusiast. This page contains my verified
   [view Certificate](NIUS_Keerthana.pdf)
   
 - **BEST RESEARCH PAPER AWARD SPARK'26**  
-  [view Certificate](MCYscholarship_Keerthana.jpeg)
+  [view Certificate](best_research_paper_award.pdf)
 
 - **INSPIRE Offer Letter**  
   [view Offer Letter](INSPIRE_Keerthana.pdf)
