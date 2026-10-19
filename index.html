@@ -11,14 +11,16 @@
 
   <style>
     :root {
-      --ink: #202632;
-      --muted: #596273;
-      --accent: #214f63;
-      --accent-light: #eaf1f4;
-      --page: #f5f7f9;
-      --card: #ffffff;
-      --line: #e3e7eb;
-      --shadow: 0 5px 18px rgba(24, 39, 52, 0.07);
+      --ink: #1A1D20;
+      --muted: #545D66;
+      --heading: #0B2545;
+      --accent: #134074;
+      --accent-bright: #00B4D8;
+      --accent-light: #EAF5FA;
+      --page: #FFFFFF;
+      --card: #FFFFFF;
+      --line: #DEE5EC;
+      --shadow: 0 5px 18px rgba(11, 37, 69, 0.06);
       --width: 1120px;
     }
 
@@ -39,7 +41,7 @@
       position: sticky;
       top: 0;
       z-index: 10;
-      background: rgba(255,255,255,.96);
+      background: #FFFFFF;
       border-bottom: 1px solid var(--line);
       backdrop-filter: blur(10px);
     }
@@ -51,7 +53,7 @@
       gap: 24px;
     }
     .brand {
-      color: var(--ink);
+      color: var(--heading);
       text-decoration: none;
       font-size: 1.18rem;
       font-weight: 750;
@@ -61,11 +63,12 @@
     .navlinks { display: flex; align-items: center; gap: 27px; flex-wrap: wrap; }
     .navlinks a {
       text-decoration: none;
-      color: #414957;
+      color: var(--heading);
       font-size: .95rem;
       font-weight: 550;
     }
-    .navlinks a:hover, .text-link:hover { color: var(--accent); text-decoration: underline; }
+    .navlinks a:hover, .text-link:hover { color: var(--accent-bright); text-decoration: underline; }
+    h1, h2, h3 { color: var(--heading); }
 
     main { padding: 42px 0 70px; }
     .hero {
@@ -75,29 +78,23 @@
       gap: 38px;
       padding: 44px 48px;
       background: var(--card);
-      border: 1px solid #edf0f2;
+      border: 1px solid var(--line);
       border-radius: 18px;
       box-shadow: var(--shadow);
     }
     .portrait-frame {
       width: 225px;
       height: 225px;
-      border: 2px dashed #9aabb5;
+      border: 4px solid var(--accent);
       border-radius: 50%;
-      background: #f8fafb;
-      color: #71808b;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      text-align: center;
-      gap: 8px;
-      padding: 20px;
+      background: var(--accent-light);
+      display: block;
+      object-fit: cover;
+      object-position: center;
       overflow: hidden;
       margin: 0 auto;
+      box-shadow: 0 0 0 5px #FFFFFF, 0 0 0 7px rgba(0, 180, 216, 0.22);
     }
-    .portrait-frame i { font-size: 2rem; }
-    .portrait-frame span { font-size: .9rem; line-height: 1.35; }
     .hero-content { min-width: 0; }
     .eyebrow {
       margin: 0 0 8px;
@@ -117,11 +114,11 @@
       justify-content: center;
       width: 38px;
       height: 38px;
-      color: #707986;
+      color: var(--accent);
       text-decoration: none;
       transition: color .2s, transform .2s;
     }
-    .socials a:hover { color: var(--accent); transform: translateY(-2px); }
+    .socials a:hover { color: var(--accent-bright); transform: translateY(-2px); }
     .socials i { font-size: 1.7rem; }
     .contact-list { display: grid; gap: 16px; }
     .contact-item {
@@ -158,14 +155,14 @@
     .section-card {
       padding: 27px 30px;
       background: var(--card);
-      border: 1px solid #edf0f2;
+      border: 1px solid var(--line);
       border-radius: 16px;
       box-shadow: var(--shadow);
     }
     .entry {
       position: relative;
       padding: 19px 0 19px 20px;
-      border-left: 3px solid #d5e1e7;
+      border-left: 3px solid var(--accent-bright);
     }
     .entry:first-child { padding-top: 2px; }
     .entry:last-child { padding-bottom: 2px; }
@@ -179,7 +176,7 @@
     .pill {
       padding: 5px 11px;
       background: var(--accent-light);
-      color: #294c5c;
+      color: var(--heading);
       border-radius: 999px;
       font-size: .88rem;
     }
@@ -193,7 +190,7 @@
       align-items: flex-start;
       gap: 14px;
       padding: 19px;
-      background: #fbfcfd;
+      background: #FFFFFF;
       border: 1px solid var(--line);
       border-radius: 12px;
     }
@@ -241,12 +238,7 @@
 
   <main class="container">
     <section class="hero" id="home">
-      <!-- Photo placeholder: replace this block with an image when you are ready.
-           Example: <img class="portrait-frame" src="your-photo.jpg" alt="Keerthana M Renjith"> -->
-      <div class="portrait-frame" aria-label="Space reserved for your profile photo">
-        <i class="fa-regular fa-image" aria-hidden="true"></i>
-        <span>Add your<br>photo here</span>
-      </div>
+      <img class="portrait-frame" src="keerthana%20tifr.jpeg" alt="Keerthana M Renjith">
 
       <div class="hero-content">
         <p class="eyebrow">Academic Portfolio</p>
